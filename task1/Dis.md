@@ -1,7 +1,10 @@
-# task1
+# BMI Calculator
 
-A new Flutter project.
+A new Flutter project.Simply, Calculate your BMI and tells you whether if you Very severely underweight,Severely underweight,Underweight, Normal (healthy weight),Overweight,Moderately obese,Severely obese or very Severely obese. 
 
+# Caclulations : 
+  Your BMI (kg/m^2) = Weight (kg) / ( Height (m) ) ^ 2 
+  
 ## Getting Started
 
 This project is a starting point for a Flutter application.
